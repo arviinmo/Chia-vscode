@@ -51,12 +51,7 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
-Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
-
 ```bash
 vsce publish patch/minor/major
 ```
 
-## Shameless Plug
-
-Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
