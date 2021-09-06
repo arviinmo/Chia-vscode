@@ -31,7 +31,7 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/arviinmo/Chia-vscode/blob/vsc-extension-quickstart.md)
 
 ## Icon Theme
 
