@@ -15,7 +15,7 @@
     <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/brittanychiang.halcyon-vscode.svg" />
   </a>
   <a href="#">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/brittanychiang.halcyon-vscode.svg" />
+    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/Arvinmo.chia-vscode.svg" />
   </a>
 </p>
 
