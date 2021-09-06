@@ -31,7 +31,7 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/arviinmo/Chia-vscode/blob/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/arviinmo/Chia-vscode/blob/afd9d35b9b4d93834206041dff38d7a9229b745b/vsc-extension-quickstart.md)
 
 ## Icon Theme
 
