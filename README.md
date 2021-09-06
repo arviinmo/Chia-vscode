@@ -1,20 +1,20 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://github.com/arviinmo/Chia-vscode/blob/cf1f6391a450fd5a159342fa8f66a5dcdf7c920f/images/logo.png" width="100" />
+  <img alt="Chia Logo" src="https://github.com/arviinmo/Chia-vscode/blob/cf1f6391a450fd5a159342fa8f66a5dcdf7c920f/images/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Halcyon Theme for VS Code
+  Chia Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
+  A minimal, dark blue theme for <a href="https://chiatheme.netlify.com/">VS Code</a>.
 </p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+  <a href="#">
     <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+  <a href="#">
     <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/brittanychiang.halcyon-vscode.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+  <a href="#">
     <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/brittanychiang.halcyon-vscode.svg" />
   </a>
 </p>
