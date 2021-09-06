@@ -8,13 +8,13 @@
   A minimal, dark blue theme for <a href="https://chiatheme.netlify.com/">VS Code</a>.
 </p>
 <p align="center">
-  <a href="#">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=Arvinmo.chia-vscode">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/Arvinmo.chia-vscode.svg" />
   </a>
-  <a href="#">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/brittanychiang.halcyon-vscode.svg" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=Arvinmo.chia-vscode">
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/Arvinmo.chia-vscode.svg" />
   </a>
-  <a href="#">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Arvinmo.chia-vscode">
     <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/Arvinmo.chia-vscode.svg" />
   </a>
 </p>
